@@ -156,3 +156,8 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+ul {
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
+}
